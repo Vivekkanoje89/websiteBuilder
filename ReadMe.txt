@@ -1,1 +1,1 @@
-WebsiteBuilder new
+WebsiteBuilder
